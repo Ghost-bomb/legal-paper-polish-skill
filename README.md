@@ -1,6 +1,6 @@
 # Reader-First Legal Writing
 
-读者疑问驱动的中文法学论文写作教练。一个用于 TRAE（或其他 AI 编程助手）的 Skill，帮助法学研究者从"读者视角"诊断和优化论文段落的论证表达。
+读者疑问驱动的中文法学论文写作教练。一个用于 AI 编程助手的 Skill，帮助法学研究者从"读者视角"诊断和优化论文段落的论证表达。
 
 ## 这个 Skill 不是什么
 
@@ -69,7 +69,7 @@ reader-first-legal-writing/
 
 ## 安装
 
-将此仓库克隆到 TRAE 的 skills 目录下即可使用。
+将此仓库克隆到 AI agent 的 skills 目录下即可使用。
 
 ## 许可
 
