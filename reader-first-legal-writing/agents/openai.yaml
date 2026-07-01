@@ -1,0 +1,7 @@
+interface:
+  display_name: "读者疑问法学写作教练"
+  short_description: "从读者疑问出发诊断中文法学论文表达并引导大白话说明"
+  default_prompt: "请调用 reader-first-legal-writing，从读者疑问视角诊断这段中文法学论文，先切分段落并引导作者用大白话说明段落意图，不要直接润色。"
+
+policy:
+  allow_implicit_invocation: true
