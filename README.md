@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29533053/README.md)
 # Reader-First Legal Writing
 
 读者疑问驱动的中文法学论文写作教练。一个用于 TRAE（或其他 AI 编程助手）的 Skill，帮助法学研究者从"读者视角"诊断和优化论文段落的论证表达。
